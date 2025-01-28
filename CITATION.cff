@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Holzhausen"
+  given-names: "Konstantin"
+  orcid: "https://orcid.org/0000-0002-3419-5489"
+- family-names: "Merlid"
+  given-names: "Mia"
+- family-names: "Torvik"
+  given-names: "Håkon Olav"
+- family-names: "Malthe-Sørenssen"
+  given-names: "Anders"
+- family-names: "Lepperød"
+  given-names: "Mikkel Elle"
+title: "Exploring Biologically Inspired Mechanisms of Adversarial
+Robustness"
+version: 1.0.0
+doi: 10.5281/zenodo.10688861
+date-released: 2024-02-01
+url: "https://github.com/bioAI-Oslo/BioInspiredRobustness"
