@@ -1,4 +1,4 @@
-# LocalLearning
+# BioInspiredRobustness
 Exploring mechanisms of Neural Robustness: probing the bridge between geometry and spectrum.
 
 # License
