@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/923448020.svg)](https://doi.org/10.5281/zenodo.14753527)
+
+
 # BioInspiredRobustness
 Exploring mechanisms of Neural Robustness: probing the bridge between geometry and spectrum.
 
