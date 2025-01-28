@@ -14,7 +14,7 @@ authors:
   given-names: "Mikkel Elle"
 title: "Exploring Biologically Inspired Mechanisms of Adversarial
 Robustness"
-version: 1.0.0
-doi: 10.5281/zenodo.10688861
-date-released: 2024-02-01
+version: 1.0.1
+doi: 10.5281/zenodo.14753528
+date-released: 2025-01-28
 url: "https://github.com/bioAI-Oslo/BioInspiredRobustness"
